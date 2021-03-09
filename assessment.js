@@ -89,6 +89,7 @@ function assessment(userName) {
 }
 
 //テスト
+/*
 console.assert(
   assessment('太郎') === '太郎のいいところは決断力です。太郎がする決断にいつも助けられる人がいます。',
   '診断結果の文言の特定の部分を名前に置き換える処理が正しくありません。'
@@ -96,4 +97,4 @@ console.assert(
 console.assert(
   assessment('太郎') === assessment('太郎'),
   '入力名が同じ場合に同じ診断結果を出力する処理が正しくありません。'
-);
+);*/
